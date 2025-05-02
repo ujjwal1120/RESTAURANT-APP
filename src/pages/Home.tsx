@@ -145,10 +145,10 @@ const Home: React.FC = () => {
               </p>
               <div className="flex items-center">
                 <div className="mr-3 h-10 w-10 rounded-full bg-burgundy-100 flex items-center justify-center">
-                  <span className="text-burgundy-600 font-bold">SC</span>
+                  <span className="text-burgundy-600 font-bold">S</span>
                 </div>
                 <div>
-                  <p className="font-medium text-gray-900">Sarah C.</p>
+                  <p className="font-medium text-gray-900">Shashwat</p>
                   <p className="text-sm text-gray-500">Regular Guest</p>
                 </div>
               </div>
@@ -163,10 +163,10 @@ const Home: React.FC = () => {
               </p>
               <div className="flex items-center">
                 <div className="mr-3 h-10 w-10 rounded-full bg-burgundy-100 flex items-center justify-center">
-                  <span className="text-burgundy-600 font-bold">MJ</span>
+                  <span className="text-burgundy-600 font-bold">A</span>
                 </div>
                 <div>
-                  <p className="font-medium text-gray-900">Mark J.</p>
+                  <p className="font-medium text-gray-900">Aman</p>
                   <p className="text-sm text-gray-500">First-time Visitor</p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const Home: React.FC = () => {
               </p>
               <div className="flex items-center">
                 <div className="mr-3 h-10 w-10 rounded-full bg-burgundy-100 flex items-center justify-center">
-                  <span className="text-burgundy-600 font-bold">AL</span>
+                  <span className="text-burgundy-600 font-bold">R</span>
                 </div>
                 <div>
-                  <p className="font-medium text-gray-900">Amanda L.</p>
+                  <p className="font-medium text-gray-900">Rohit</p>
                   <p className="text-sm text-gray-500">Monthly Diner</p>
                 </div>
               </div>
